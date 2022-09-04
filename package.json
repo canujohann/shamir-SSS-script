@@ -1,0 +1,19 @@
+{
+  "name": "shamir-test",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "test for Shamir's threshold secret sharing scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johann CANU",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "secrets.js-grempe": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
