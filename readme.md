@@ -14,7 +14,7 @@ node shamir-encrypt.js --secret="mysecret" --shares=5 --threshold=4
 
 > Only "secret" is mandatory. By default, 5 shares with a threshold of 3 will be used.
 
-## Decrupt a string with shamir
+## Decrypt a string with shamir
 
 Call "shamir-decrypt" with the proper parameters :
 
